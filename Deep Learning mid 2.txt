@@ -1,0 +1,20 @@
+Deep Learning
+
+UNIT - 3
+1) Architecture of RNN
+2) Working of RNN 
+3) Challanges of RNN
+4) Echo-state-networks
+5) Long Short Term Memory
+
+UNIT - 4
+1) Auto Encoder
+2) Type of Auto Encoders
+3) Variational Auto Encoders
+4) Generative Adversarial Networks
+
+UNIT - 5
+1) Deep Belief Networks
+2) Energy-Based Models
+3) Restricted Boltzmann Machines
+4) Sampling in RBM
